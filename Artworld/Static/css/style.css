@@ -1,0 +1,16 @@
+body{
+    background-image: url(../image/pic2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    padding:30px;
+    max-width: 250px;
+    margin: auto ;
+    border-radius: 10px;
+    position: relative;
+    color: deeppink;
+}
+

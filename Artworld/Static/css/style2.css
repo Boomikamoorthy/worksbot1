@@ -1,0 +1,13 @@
+body
+{
+    background-image: url(../image/pic4.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form
+{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
